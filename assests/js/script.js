@@ -41,7 +41,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Karthick Kumar";
+        document.title = "Portfolio | Sankar Sivasamy";
         $("#favicon").attr("href","assests/images/favicon.png");
     }
     else {
