@@ -46,7 +46,7 @@ function(){
     }
     else {
         document.title = "Thanks For Your Time..";
-        $("#favicon").attr("href","assests/images/blackheart.jpeg");
+        $("#favicon").attr("href","assests/images/black.png");
     }
 });
 
