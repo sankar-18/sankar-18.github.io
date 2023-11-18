@@ -42,7 +42,7 @@ document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
         document.title = "Portfolio | Sankar Sivasamy";
-        $("#favicon").attr("href","assests/images/avatar.PNG");
+        $("#favicon").attr("href","assests/images/avatar1.png");
     }
     else {
         document.title = "Thanks For Your Time..";
