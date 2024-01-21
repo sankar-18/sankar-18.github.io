@@ -1415,12 +1415,12 @@ form .button-area{
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #fff;
+  color: #a9c4d0;
   font-weight: 600;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #ffffff;
+  color: #e7edf0;
   font-size: 14px;
   text-transform: uppercase;
   padding: 0;
@@ -1433,7 +1433,7 @@ form .button-area{
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fff;
+  color: #ad3c3c;
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
