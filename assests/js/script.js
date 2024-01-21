@@ -176,7 +176,7 @@ srtop.reveal('.services .container',{interval: 100})
 /* SCROLL EXPERIENCE */
 srtop.reveal('.experience .timeline',{delay: 400});
 srtop.reveal('.experience .timeline .container',{interval: 400}); 
-
+srtop.reveal('.portfolio .portfolio-container',{delay: 200});
 srtop.reveal('.blog .blog-post',{delay: 400});
 
 /* SCROLL CONTACT */
